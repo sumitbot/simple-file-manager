@@ -17,7 +17,7 @@ $allow_direct_link = true; // Set to false to only allow downloads and not direc
 
 $disallowed_extensions = ['php'];  // must be an array.
 
-$PASSWORD = '';  // Set the password, to access the file manager... (optional)
+$PASSWORD = 'sumit@k143';  // Set the password, to access the file manager... (optional)
 
 if($PASSWORD) {
 
