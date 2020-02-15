@@ -1,0 +1,6 @@
+{
+  "name": "Simple File Manager: PHP app for heroku",
+  "description": "simple file manager php app for heroku https://github.com/sumitbot/simple-file-manager",
+  "repository": "https://github.com/sumitbot/simple-file-manager",
+  "addons": []
+}
